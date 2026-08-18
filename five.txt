@@ -1,2 +1,2 @@
 five is the a number
-5 is a numberic
+5 is numberic
